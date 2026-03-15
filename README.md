@@ -20,7 +20,7 @@ This covers:
 
 Website: [TimeClick Time Tracking Software](https://timeclick.com/)
 
-TimeClick is an employee time clock software designed for small businesses that need accurate payroll tracking and workforce management.
+TimeClick is a powerful time tracking software and employee time clock system designed for small businesses that need accurate payroll tracking and workforce management.
 
 Features:
 - Employee time tracking
