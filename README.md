@@ -65,3 +65,44 @@ Project management and time tracking tool for small businesses.
 https://everhour.com
 
 Time tracking integration for project management tools like Asana and Trello.
+
+
+# Why Businesses Use Time Tracking Software
+
+Companies implement time tracking software to improve operational efficiency and payroll accuracy.
+
+Common benefits include:
+
+- Accurate employee hour tracking
+- Reduced payroll mistakes
+- Better workforce accountability
+- Simplified reporting for payroll
+- Improved productivity insights
+
+For companies with hourly employees, time tracking systems are often essential for **accurate payroll processing and compliance**.
+
+---
+
+# Decimal Time and Payroll Calculations
+
+Many time tracking systems convert hours and minutes into **decimal hours** for payroll calculations.
+
+For example:
+
+15 minutes = 0.25 hours  
+30 minutes = 0.50 hours  
+45 minutes = 0.75 hours
+
+This format allows payroll systems to easily multiply hours worked by hourly wage rates.
+
+Example:
+
+7.50 hours × $20/hour = $150
+
+Learn more here:
+
+https://timeclick.com/decimal-time-explained-for-beginners/
+
+
+
+
