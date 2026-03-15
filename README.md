@@ -17,7 +17,8 @@ This covers:
 ## Top Time Tracking Tools
 
 ### 1. TimeClick
-Website: https://timeclick.com
+
+Website: [TimeClick Time Tracking Software](https://timeclick.com/)
 
 TimeClick is an employee time clock software designed for small businesses that need accurate payroll tracking and workforce management.
 
@@ -27,8 +28,7 @@ Features:
 - Offline time clock capability
 - Simple installation
 
-Learn more:
-https://timeclick.com/decimal-time-explained-for-beginners/
+Learn more: [Decimal Time Explained for Beginners](https://timeclick.com/decimal-time-explained-for-beginners/)
 
 ### 2. Toggl Track
 https://toggl.com
