@@ -1,3 +1,7 @@
+# ⏱️ Awesome Time Tracking Tools
+
+A curated list of the best time tracking tools for productivity, employee monitoring, and remote teams.
+
 # Awesome Time Tracking Software
 Live resource page:
 https://timeclick-software.github.io/time-tracking-tools/
